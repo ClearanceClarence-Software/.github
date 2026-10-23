@@ -8,9 +8,9 @@
 
 ---
 
-## What we make
+## What I make
 
-CC Software is the software-development label of [ClearanceClarence](https://github.com/ClearanceClarence). Everything here is built by one developer who ships the tools he wants to use himself: fast, dependency-light, and honest about what they do.
+I'm Adrian, a full-stack developer in Norway, known in game modding as [ClearanceClarence](https://www.nexusmods.com/profile/ClearanceClarence). CC Software is where my developer tools live. I build the tools I want to use myself: fast, dependency-light, and honest about what they do.
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -21,19 +21,19 @@ CC Software is the software-development label of [ClearanceClarence](https://git
 
 Pinned repositories below are the ones under active development.
 
-## How we work
+## How I work
 
-- **Signed releases.** Windows binaries are code-signed. If Windows warns you about an unsigned file, it did not come from us.
+- **Signed releases.** Windows binaries are code-signed. If Windows warns you about an unsigned file, it did not come from me.
 - **Changelogs that mean something.** Every release has notes written by hand, and the app tells you what changed since the version you have.
 - **Small by default.** Single-file executables and zero-dependency PHP where the problem allows it.
 - **Open source.** Permissive licenses: MIT for the apps, GPL-2.0-or-later for the WordPress plugins. Each repository states its own.
 
 ## Getting help
 
-- Found a bug or want a feature? Open an issue on the project's repository. Each repo has issue forms that ask for what we need.
+- Found a bug or want a feature? Open an issue on the project's repository. Each repo has issue forms that ask for what I need to reproduce it.
 - Security concerns: see the `SECURITY.md` in the relevant repository.
 - Everything else: [ClearanceClarence on GitHub](https://github.com/ClearanceClarence).
 
 ## Also from ClearanceClarence
 
-Game mods for Skyrim, Fallout, Starfield and Cyberpunk 2077 are published under **ClearanceClarence Mods** on [Nexus Mods](https://www.nexusmods.com/users/ClearanceClarence), not here.
+Game mods for Skyrim, Fallout, Starfield and Cyberpunk 2077 are published under **ClearanceClarence Mods** on [Nexus Mods](https://www.nexusmods.com/profile/ClearanceClarence), not here.
