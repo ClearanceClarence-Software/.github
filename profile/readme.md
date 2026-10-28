@@ -15,6 +15,7 @@ I'm Adrian, a full-stack developer in Norway, known in game modding as [Clearanc
 | Project | What it is | Stack |
 |---|---|---|
 | **[SpaceSharp](https://github.com/SpaceSharpApp/SpaceSharp)** | Disk space visualizer for Windows. Scans a drive and shows where the space went as an interactive treemap. | C# · .NET 10 · Avalonia |
+| **[Modern XAMPP Control Panel](https://github.com/ClearanceClarence-Software/Modern-XAMPP-Control-Panel)** | Drop-in replacement for the XAMPP Control Panel on Windows. Shuts MySQL/MariaDB down cleanly, switches PHP and MariaDB versions, and sets up local HTTPS sites with trusted certificates. | C# · .NET 10 · Avalonia |
 | **[Ledger](https://tryledger.dev)** | Self-hosted MySQL/MariaDB administration in plain PHP. A lighter alternative to phpMyAdmin. | PHP · MariaDB |
 | **[Routemark](https://github.com/ClearanceClarence-Software/Routemark)** | REST API explorer that lives in wp-admin. Lists every route and who registered it, sends requests as any user or logged out, and flags routes with weak permission checks. | PHP · React · WordPress |
 | **[Unified Blocklist](https://github.com/ClearanceClarence-Software/Unified-Blocklist)** | Keeps a WordPress site's blocklists current from upstream sources, automatically. | PHP · WordPress |
